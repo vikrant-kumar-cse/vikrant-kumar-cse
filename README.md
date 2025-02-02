@@ -2,7 +2,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/vikrant-kumar-cse/vikrant-kumar-cse/blob/main/Profile%20Banner.png" alt="Vikrant Kumar Banner" width="100%"/>
+  <img src="https://github.com/vikrant-kumar-cse/vikrant-kumar-cse/blob/main/Profile%20Banner.png" alt="Vikrant Kumar Banner" width="60%"/>
 </p>
 
 <h3 align="center">A Passionate Full Stack Developer | Machine Learning Enthusiast | Cybersecurity Advocate</h3>
