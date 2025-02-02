@@ -7,16 +7,14 @@
 
 <h3 align="center">A Passionate Full Stack Developer | Machine Learning Enthusiast | Cybersecurity Advocate</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vikrant-kumar-cse&label=Profile%20views&color=0e75b6&style=flat" alt="vikrant-kumar-cse" />
-</p>
+
 
 ---
 
 ### 🚀 About Me:
-- 🔭 Currently working on an **ML-based Project**: [Explore More](https://abc.com)
+- 🔭 Currently working on an **ML-based Project**: [Explore More](https://whatsapp-chat-analysis-uwty.onrender.com)
 - 🌱 Learning **React** & **Advanced JavaScript** for frontend expertise
-- 👨‍💻 All my projects are available on my [Portfolio](https://abc.com)
+- 👨‍💻 All my projects are available on my [Portfolio](https://github.com/vikrant-kumar-cse?tab=repositories)
 - 💬 Feel free to ask me about **Frontend Development**, **Django**, **Machine Learning**, and **Cybersecurity**
 - 📫 Reach out via **vikrant@example.com**
 - ⚡ Fun Fact: Passionate about creating **Cybersecurity** awareness videos and exploring new technologies
